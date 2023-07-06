@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Swafvan</h1>
 <h3 align="left">I'm a self-taught Flutter Developer | Passionate about Crafting Beautiful Mobile
-Experience | Turning Dreams into Reality Through Code ✨ <br> <br> Customizing stunning mobile apps with Flutter is my forte! As a self-taught
-developer, I have dedicated countless hours honing my skills and mastering the
-art of Flutter Development, So proficient with knowledge in the best practices
-for developing mobile apps and proficient in the dart programming language.
-My passion lies in creating visually captivating and user-friendly applications
-that leave a lasting impression.</h3>
+Experience | Turning Dreams into Reality Through Code ✨</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
