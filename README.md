@@ -7,7 +7,7 @@ Experience | Turning Dreams into Reality Through Code ✨</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-swafvan&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-swafvan" /> </p>
 
 
-- 🌱 I’m currently learning **Flutter, Dart, etc.**
+- 🌱 I’m currently learning **DataBase, NodeJS, etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohammed-swafvan](https://github.com/mohammed-swafvan)
 
