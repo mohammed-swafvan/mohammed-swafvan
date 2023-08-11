@@ -22,7 +22,7 @@ Experience | Turning Dreams into Reality Through Code ✨</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/swafvan safu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swafvan safu" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/swafvan safu](https://www.linkedin.com/in/swafvan/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swafvan safu" height="30" width="40" /></a>
 <a href="https://fb.com/swafvan safu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swafvan safu" height="30" width="40" /></a>
 <a href="https://instagram.com/insta_swafvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta_swafvan" height="30" width="40" /></a>
 </p>
